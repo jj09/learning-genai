@@ -64,11 +64,11 @@
 - [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
 
 ## Blogs/YouTube Channels
-- [https://www.youtube.com/@AIJasonZ/videos](https://www.youtube.com/@AIJasonZ/videos)
-- [https://www.youtube.com/@1littlecoder/videos](https://www.youtube.com/@1littlecoder/videos)
-- [https://www.youtube.com/@aiexplained-official/videos](https://www.youtube.com/@aiexplained-official/videos)
-- [https://www.youtube.com/@AndrejKarpathy/videos](https://www.youtube.com/@AndrejKarpathy/videos) 
-- [https://www.youtube.com/@YannicKilcher](https://www.youtube.com/@YannicKilcher) 
+- [@AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy) 
+- [@AIJasonZ](https://www.youtube.com/@AIJasonZ)
+- [@1littlecoder](https://www.youtube.com/@1littlecoder)
+- [@aiexplained-official](https://www.youtube.com/@aiexplained-official)
+- [@YannicKilcher](https://www.youtube.com/@YannicKilcher) 
 
 ## Other stuff
 - OpenAI API cost: [https://gptforwork.com/tools/openai-chatgpt-api-pricing-calculator](https://gptforwork.com/tools/openai-chatgpt-api-pricing-calculator)
