@@ -1,4 +1,4 @@
-# Lerning GenAI
+# Learning GenAI
 
 ## Basics
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - great overview of LLMs
