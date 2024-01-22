@@ -13,6 +13,7 @@
    - [GPT 4 paper](https://arxiv.org/abs/2303.08774) 
 - [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) - the best AI paper of 2023?
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) - “the Transformer paper” ([deep dive + implementation](https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634))
+- [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)
 - [https://github.com/Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - curated list of papers about LLMs
 
 ## Articles/videos
