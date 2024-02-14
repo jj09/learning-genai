@@ -63,6 +63,7 @@
 - [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models)
 - [GenAI with LLMs (course)](https://www.deeplearning.ai/courses/generative-ai-with-llms)
 - [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
+- [Serverless LLM apps with Amazon Bedrock](https://learn.deeplearning.ai/serverless-llm-apps-amazon-bedrock)
 
 ## Blogs/YouTube Channels
 - [@AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy) 
